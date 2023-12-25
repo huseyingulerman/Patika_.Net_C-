@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patika_.Net_C#", "Patika_.Net_C#.csproj", "{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken", "Degisken\Degisken.csproj", "{8D2155CF-CAA0-4A02-98B4-9EA6BD5CBF3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken", "Degisken\Degisken.csproj", "{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D2155CF-CAA0-4A02-98B4-9EA6BD5CBF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D2155CF-CAA0-4A02-98B4-9EA6BD5CBF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D2155CF-CAA0-4A02-98B4-9EA6BD5CBF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D2155CF-CAA0-4A02-98B4-9EA6BD5CBF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Else_If", "If_Else_If\If
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch-Case", "Switch-Case\Switch-Case.csproj", "{CFB95CD9-6B69-419F-B8FC-6DC2B2416BA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler-for-loop-while-foreach", "donguler-for-loop-while-foreach\donguler-for-loop-while-foreach.csproj", "{09A46454-CCE1-45BB-B597-C9D46EA241B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CFB95CD9-6B69-419F-B8FC-6DC2B2416BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB95CD9-6B69-419F-B8FC-6DC2B2416BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB95CD9-6B69-419F-B8FC-6DC2B2416BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A46454-CCE1-45BB-B597-C9D46EA241B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A46454-CCE1-45BB-B597-C9D46EA241B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A46454-CCE1-45BB-B597-C9D46EA241B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A46454-CCE1-45BB-B597-C9D46EA241B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donguler-for-loop-while-for
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{5084AB72-4F32-4744-8324-8598A2E170C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler-array-sinifi-metotlari", "diziler-array-sinifi-metotlari\diziler-array-sinifi-metotlari.csproj", "{FC2CBD48-A301-403E-B4B1-1D709E1779AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5084AB72-4F32-4744-8324-8598A2E170C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5084AB72-4F32-4744-8324-8598A2E170C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5084AB72-4F32-4744-8324-8598A2E170C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2CBD48-A301-403E-B4B1-1D709E1779AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2CBD48-A301-403E-B4B1-1D709E1779AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2CBD48-A301-403E-B4B1-1D709E1779AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2CBD48-A301-403E-B4B1-1D709E1779AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

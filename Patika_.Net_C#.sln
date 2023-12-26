@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patika_.Net_C#", "Patika_.Net_C#.csproj", "{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patika_.Net_C#", "Patika_.Net_C#.csproj", "{668AECC0-B375-48DB-BA3B-6F1C78BDA94C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken", "Degisken\Degisken.csproj", "{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degisken", "Degisken\Degisken.csproj", "{227E5788-5146-4EB8-ADE3-1C4FBDF2BC19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{D5EAEF85-7B6F-44A3-BCF2-DABBEF3A1AFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{D5EAEF85-7B6F-44A3-BCF2-DABBEF3A1AFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{9A8BF6A2-D54A-467B-A64F-19919D69080C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{9A8BF6A2-D54A-467B-A64F-19919D69080C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{39F498B1-3A8F-4EE2-90A6-C8D1976834D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9A8BF6A2-D54A-467B-A64F-19919D69080C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A8BF6A2-D54A-467B-A64F-19919D69080C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A8BF6A2-D54A-467B-A64F-19919D69080C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F498B1-3A8F-4EE2-90A6-C8D1976834D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F498B1-3A8F-4EE2-90A6-C8D1976834D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F498B1-3A8F-4EE2-90A6-C8D1976834D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F498B1-3A8F-4EE2-90A6-C8D1976834D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

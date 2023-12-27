@@ -1,4 +1,6 @@
-﻿namespace arraylist
+﻿using System.Collections;
+
+namespace arraylist
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         {
             //System.Collections namespace
 
-            arraylist liste = new arraylist();
+            ArrayList liste = new ArrayList();
             liste.Add("Ayşe");
             liste.Add(2);
             liste.Add(true);

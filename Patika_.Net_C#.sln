@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazir-metotlar-datetime", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic-list", "generic-list\generic-list.csproj", "{3751F235-F694-48F2-8778-0009F8BA8978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleksiyonlar-odev2", "koleksiyonlar-odev2\koleksiyonlar-odev2.csproj", "{78C36458-98F0-4066-A2E7-05B3511A8923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3751F235-F694-48F2-8778-0009F8BA8978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3751F235-F694-48F2-8778-0009F8BA8978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3751F235-F694-48F2-8778-0009F8BA8978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C36458-98F0-4066-A2E7-05B3511A8923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C36458-98F0-4066-A2E7-05B3511A8923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C36458-98F0-4066-A2E7-05B3511A8923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C36458-98F0-4066-A2E7-05B3511A8923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

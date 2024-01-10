@@ -45,13 +45,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sinif-kavrami", "sinif-kavr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulation", "encapsulation\encapsulation.csproj", "{9D82D14E-E9F3-4EA5-A4AF-D9A4C0F2091E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static-sinif", "static-sinif\static-sinif.csproj", "{B11BA328-8606-47F2-BC7A-045CA339D18E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "static-sinif", "static-sinif\static-sinif.csproj", "{B11BA328-8606-47F2-BC7A-045CA339D18E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_enum", "csharp_enum\csharp_enum.csproj", "{C06FE65A-5F8B-4FF1-BBBD-F397AE089EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp_enum", "csharp_enum\csharp_enum.csproj", "{C06FE65A-5F8B-4FF1-BBBD-F397AE089EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telefon-rehberi-uygulamasi", "telefon-rehberi-uygulamasi\telefon-rehberi-uygulamasi.csproj", "{245FBF8A-84F9-4E46-9EBD-87407C95D206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "telefon-rehberi-uygulamasi", "telefon-rehberi-uygulamasi\telefon-rehberi-uygulamasi.csproj", "{245FBF8A-84F9-4E46-9EBD-87407C95D206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-todo-uygulamasi", "console-todo-uygulamasi\console-todo-uygulamasi.csproj", "{1B180CE1-19B2-459A-901E-35102B188057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console-todo-uygulamasi", "console-todo-uygulamasi\console-todo-uygulamasi.csproj", "{1B180CE1-19B2-459A-901E-35102B188057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql", "..\Sql\Sql.csproj", "{38CFE552-5496-40BE-9B92-0ED74917EE42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{1B180CE1-19B2-459A-901E-35102B188057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B180CE1-19B2-459A-901E-35102B188057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B180CE1-19B2-459A-901E-35102B188057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CFE552-5496-40BE-9B92-0ED74917EE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CFE552-5496-40BE-9B92-0ED74917EE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CFE552-5496-40BE-9B92-0ED74917EE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CFE552-5496-40BE-9B92-0ED74917EE42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
